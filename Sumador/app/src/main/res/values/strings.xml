@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Sumador</string>
+    <string name="sumar">SUMAR</string>
+    <string name="realizado">REALIZADO:</string>
+    <string name="volver">VOLVER</string>
+    <string name="numero1">Introduce el primer numero</string>
+    <string name="numero2">Introduce el segundo numero</string>
+</resources>
