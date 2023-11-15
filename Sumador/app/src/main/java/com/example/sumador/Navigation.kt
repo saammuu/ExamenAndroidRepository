@@ -74,6 +74,7 @@ fun Navigation() {
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable
 fun MainScreen(navController: NavController) {
+    //Controloamos la rotacion
     var num1 by rememberSaveable {mutableStateOf("")}
     var num2 by rememberSaveable {mutableStateOf("")}
 
